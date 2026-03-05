@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Mateus, a programming student.
+
+I'm currently learning and improving my skills in Java and web development.
+
+I enjoy building small projects to practice what I learn and to develop my problem-solving skills.
+
+My current main focus is:
+
+* Java
+* HTML
+* CSS
+* JavaScript
+
+My goal is to become a professional software developer and keep improving through real projects.
+
+Currently:
+
+* studying programming fundamentals
+* building small projects
+* learning more about web development
